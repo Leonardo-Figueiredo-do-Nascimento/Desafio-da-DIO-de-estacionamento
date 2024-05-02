@@ -44,7 +44,7 @@ while (exibirMenu)
             break;
 
         case "4":
-            exibirMenu = false;
+            exibirMenu = false; 
             break;
 
         default:
